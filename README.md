@@ -184,3 +184,8 @@ docker compose up -d
 ---
 
 Built as part of the Enterprise AI Agent Platform.
+
+<!-- architecture -->
+## Architecture
+
+![Architecture diagram](docs/architecture.svg)
